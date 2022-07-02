@@ -87,7 +87,7 @@ class ThirdPage extends StatelessWidget {
     return const Scaffold(
       body: Center(
         child: Text(
-            'Hi, Nikunj  You have successfully Completed Hybrid Mobile App Development Course '
+            'Hi, NIKUNJ  You have successfully Completed Hybrid Mobile App Development Course '
             'INSTRUCTOR NAME:'
             'Pankaj Kapoor'),
       ),
